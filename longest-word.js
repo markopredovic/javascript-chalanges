@@ -1,4 +1,4 @@
-// finding longest word in sentence using reduce function
+// finding longest word in sentence
 
 const longestWord = sentence => {
     const words = sentence.split(' ');
